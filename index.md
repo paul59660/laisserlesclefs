@@ -1,8 +1,20 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# On pose les mots
 
-# L'Échappée Belle
+et on réfléchit...
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+J'aime bien Nicolas ( Boileau ):
+
+> Ce que l'on conçoit bien s'énonce clairement, Et les mots pour le dire arrivent aisément.
+
+et aussi Antoine ( de Saint-Exupéry ) :
+
+> La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.
+
+Voilà, le décor est posé...
+
+Un plan ? Oui... 
