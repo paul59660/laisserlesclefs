@@ -3,7 +3,6 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Pour me joindre: remplacer [dot] par **.** et [at] par **@**
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+> paul[dot]demarey[at]laposte[dot]net 
