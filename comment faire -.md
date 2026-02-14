@@ -7,22 +7,18 @@ Un paquet d'informations doit être transmis, le moment venu, aux intéressé(e)
 
 Elles sont de différentes sortes: 
 
-1. personnelles: 
+- personnelles: 
 
-- les femmes, les hommes  
-- leur identité
-- leurs caractéristiques    
+les femmes, les hommes, leur identité, leurs caractéristiques    
 
-2. institutionnelles:
+- institutionnelles:
 
-- les structures dont ils font parties
-- les contrats   
+les structures dont ils font parties, les contrats
 
-3. matérielles:
+- matérielles:
 
-- les biens ( matériel et financier )
-- les engagements ( abonnements )    
+les biens ( matériel et financier ), les engagements (abonnements)    
 
-4. des remarques utiles:
+- des remarques utiles:
 
-- ce qui peut servir 
+tout ce qui peut servir 
